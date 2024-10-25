@@ -1,0 +1,22 @@
+body {
+    
+    background-image: url('../asest/todo\ bg.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.to-do-container{
+    height: 100vh;
+    
+}
+
+.to-do-card{
+    width: 450px;
+    border-radius: 10px;
+    backdrop-filter: blur(80px);
+    -webkit-backdrop-filter: blur(10px);
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
